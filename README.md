@@ -15,9 +15,13 @@
 
 ## Screens
 - **Stock List screen and search**
+<p float="left">
   <img src="screenshots/list-1.png" width="130"/>
   <img src="screenshots/list-2.png" width="130"/>
+</p>
 
 - **Stock Detail screen**
 
-- <img src="screenshots/detail.png" width="130"/>
+<p float="left">
+  <img src="screenshots/detail.png" width="130"/>
+</p>
